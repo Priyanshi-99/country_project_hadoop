@@ -1,0 +1,3 @@
+This is a read me ....
+# country_project_hadoop
+This project is build on hadoop.i have used mapreduce to resolve the problem sets.
